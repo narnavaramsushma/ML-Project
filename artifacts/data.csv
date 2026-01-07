@@ -1,4 +1,3 @@
-
 gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score
 female,group B,bachelor's degree,standard,none,72,72,74
 female,group C,some college,standard,completed,69,90,88
@@ -1000,4 +999,3 @@ male,group C,high school,free/reduced,none,62,55,55
 female,group C,high school,free/reduced,completed,59,71,65
 female,group D,some college,standard,completed,68,78,77
 female,group D,some college,free/reduced,none,77,86,86
-# commit Changes
